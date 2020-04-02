@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Waldir Almeida | Rafael Padilha</title>
+    <link>https://rafaspadilha.github.io/authors/waldir-almeida/</link>
+      <atom:link href="https://rafaspadilha.github.io/authors/waldir-almeida/index.xml" rel="self" type="application/rss+xml" />
+    <description>Waldir Almeida</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Waldir Almeida</title>
+      <link>https://rafaspadilha.github.io/authors/waldir-almeida/</link>
+    </image>
+    
+    <item>
+      <title>Multiple-tiered facial recognition</title>
+      <link>https://rafaspadilha.github.io/publication/andalo18uspto/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/andalo18uspto/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@misc{andalo18uspto,
+    authors      = &#34;Fernanda A. Andal{\&#39;o} and Rafael Padilha and Waldir R. Almeida and Gabriel Bertocco and Jacques Wainer and Ricardo da S. Torres and Anderson Rocha&#34;,
+    title        = &#34;Multiple-tiered facial recognition&#34;,
+    number       = &#34;US 15⁄918,462&#34;,
+    year         = 2018,
+    note         = &#34;USPTO Patent&#34;,
+}
+&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Competition on Generalized Software-based Face Presentation Attack Detection in Mobile Scenarios</title>
+      <link>https://rafaspadilha.github.io/publication/boulkenafet17ijcb/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/boulkenafet17ijcb/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@inproceedings{boulkenafet17ijcb,
+    authors      = &#34;Zinelabdine Boulkenafet and ... and Waldir Rodrigues de Almeida and Fernanda A. Andal{\&#39;o} and Rafael Padilha and Gabriel Bertocco and William Dias and Jacques Wainer and Ricardo da S. Torres and Anderson Rocha and others&#34;,
+    title        = &#34;A Competition on Generalized Software-based Face Presentation Attack Detection in Mobile Scenarios&#34;,
+    booktitle    = &#34;International Joint Conference on Biometrics (IJCB)&#34;,
+    year         = 2017,
+    address      = &#34;Denver, CO, USA&#34;,
+}
+&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

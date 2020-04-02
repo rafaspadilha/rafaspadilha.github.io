@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siome Goldenstein | Rafael Padilha</title>
+    <link>https://rafaspadilha.github.io/authors/siome-goldenstein/</link>
+      <atom:link href="https://rafaspadilha.github.io/authors/siome-goldenstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Siome Goldenstein</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Siome Goldenstein</title>
+      <link>https://rafaspadilha.github.io/authors/siome-goldenstein/</link>
+    </image>
+    
+    <item>
+      <title>Quality control and multi-lesion detection in automated retinopathy classification using a visual words dictionary</title>
+      <link>https://rafaspadilha.github.io/publication/jelinek2013quality/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/jelinek2013quality/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@inproceedings{jelinek2013quality,
+    authors      = &#34;Hebert F. Jelinek and Ramon Pires and Rafael Padilha and Siome Goldenstein and Jacques Wainer and Anderson Rocha&#34;,
+    title        = &#34;Quality control and multi-lesion detection in automated retinopathy classification using a visual words dictionary&#34;,
+    booktitle    = &#34;International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)&#34;,
+    year         = 2013,
+    address      = &#34;Osaka, Japan&#34;,
+}
+&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data fusion for multi-lesion diabetic retinopathy detection</title>
+      <link>https://rafaspadilha.github.io/publication/jelinek2012data/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/jelinek2012data/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@inproceedings{jelinek2012data,
+    authors      = &#34;Hebert F. Jelinek and Ramon Pires and Rafael Padilha and Siome Goldenstein and Jacques Wainer and Terry Bossomaier and Anderson Rocha&#34;,
+    title        = &#34;Data fusion for multi-lesion diabetic retinopathy detection&#34;,
+    booktitle    = &#34;IEEE International Symposium on Computer-Based Medical Systems (CBMS)&#34;,
+    year         = 2012,
+    address      = &#34;Rome, Italy&#34;,
+}
+&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
