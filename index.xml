@@ -13,6 +13,35 @@
     </image>
     
     <item>
+      <title>DéjàVu</title>
+      <link>https://rafaspadilha.github.io/project/dejavu/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/project/dejavu/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;With demanding and sophisticated crimes and terrorist threats becoming ever more pervasive, it is paramount to design and develop objective approaches to help us solving the four most important questions in forensics regarding an event: “who”, “in what circumstances”, “why”, and “how”. Although aided by surveillance cameras when answering such questions, we often face situations in which cameras are not installed or are insufficient to cover the event. Leveraging on the rise of social media content recent explosion and wide spread, we could rely on this new channel with orders of magnitude increase in the volume of content available for event understanding and reconstruction. The aim is to complement the content from existing, if any, surveillance cameras at the event location. We could potentially provide a much clearer “bird’s eye view” of an event, along with reconstructed scenes from various perspectives of people or objects present as well as mine information related to the event pouring from social media. In this context, given an event to be investigated, our objective is to gather social media information related in position and time to such event and mine the collected information to understand what happened, reconstruct the event’s timeline, narrow down the space-search of suspects and come up with possible answers to the four aforementioned forensics questions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BioLive</title>
+      <link>https://rafaspadilha.github.io/project/biolive/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/project/biolive/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Individuals can be recognized by their biological and behavioral characteristics such as face, voice and fingerprint. Biometric recognition systems allow the automation of the recognition process, by means of signal processing and machine learning methods. The project is inserted in this context and aims at exploring open-set authentication techniques for mobile devices. BioLive is a collaboration between Unicamp and Motorola Mobility LLC.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diabetic Retinophaty</title>
+      <link>https://rafaspadilha.github.io/project/rd/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/project/rd/</guid>
+      <description>&lt;p&gt;Diabetic Retinopathy is the most common eye disease in American adults. The  accelerated  increase  of the number of people with diabetes complications creates the need for systems that screen larger sections of the community effectively for early signs of diabetic retinopathy. This project was developed as an undergraduate student under supervision of prof. Jacques Wainer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Unraveling the Notre Dame Cathedral fire in space and time: an X-coherence approach</title>
       <link>https://rafaspadilha.github.io/publication/padilha20unraveling/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
@@ -106,22 +135,6 @@ address      = &amp;ldquo;Foz do Igua{\c c}u, PR, Brazil&amp;rdquo;,
     address      = &#34;Denver, CO, USA&#34;,
 }
 &lt;/pre&gt;</description>
-    </item>
-    
-    <item>
-      <title>BioLive</title>
-      <link>https://rafaspadilha.github.io/project/biolive/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://rafaspadilha.github.io/project/biolive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DéjàVu</title>
-      <link>https://rafaspadilha.github.io/project/dejavu/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://rafaspadilha.github.io/project/dejavu/</guid>
-      <description></description>
     </item>
     
     <item>

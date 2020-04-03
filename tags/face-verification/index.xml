@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Face verification | Rafael Padilha</title>
+    <link>https://rafaspadilha.github.io/tags/face-verification/</link>
+      <atom:link href="https://rafaspadilha.github.io/tags/face-verification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Face verification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Face verification</title>
+      <link>https://rafaspadilha.github.io/tags/face-verification/</link>
+    </image>
+    
+    <item>
+      <title>BioLive</title>
+      <link>https://rafaspadilha.github.io/project/biolive/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/project/biolive/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Individuals can be recognized by their biological and behavioral characteristics such as face, voice and fingerprint. Biometric recognition systems allow the automation of the recognition process, by means of signal processing and machine learning methods. The project is inserted in this context and aims at exploring open-set authentication techniques for mobile devices. BioLive is a collaboration between Unicamp and Motorola Mobility LLC.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image-based diagnostics | Rafael Padilha</title>
+    <link>https://rafaspadilha.github.io/tags/image-based-diagnostics/</link>
+      <atom:link href="https://rafaspadilha.github.io/tags/image-based-diagnostics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Image-based diagnostics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Image-based diagnostics</title>
+      <link>https://rafaspadilha.github.io/tags/image-based-diagnostics/</link>
+    </image>
+    
+    <item>
+      <title>Diabetic Retinophaty</title>
+      <link>https://rafaspadilha.github.io/project/rd/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/project/rd/</guid>
+      <description>&lt;p&gt;Diabetic Retinopathy is the most common eye disease in American adults. The  accelerated  increase  of the number of people with diabetes complications creates the need for systems that screen larger sections of the community effectively for early signs of diabetic retinopathy. This project was developed as an undergraduate student under supervision of prof. Jacques Wainer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
