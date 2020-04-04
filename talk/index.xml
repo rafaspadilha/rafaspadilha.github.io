@@ -5,12 +5,20 @@
     <link>https://rafaspadilha.github.io/talk/</link>
       <atom:link href="https://rafaspadilha.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://rafaspadilha.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Two-tiered facial verification for mobile devices</title>
+      <link>https://rafaspadilha.github.io/talk/biometrissummerschool/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/talk/biometrissummerschool/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning visual clues of the passage of time</title>
