@@ -32,13 +32,13 @@
     
     <item>
       <title>Improving the chronological sorting of images through occlusion: A study on the Notre-Dame cathedral fire</title>
-      <link>https://rafaspadilha.github.io/publication/padilha21icassp/</link>
+      <link>https://rafaspadilha.github.io/publication/padilha20icassp/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://rafaspadilha.github.io/publication/padilha21icassp/</guid>
+      <guid>https://rafaspadilha.github.io/publication/padilha20icassp/</guid>
       <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
 &lt;pre style=&#34;overflow:auto&#34;&gt;
 @inproceedings{padilha20icassp,
-    authors      = &#34;Rafael Padilha and Fernanda A. Andal{\&#39;o} and Anderson Rocha&#34;,
+    author       = &#34;Rafael Padilha and Fernanda A. Andal{\&#39;o} and Anderson Rocha&#34;,
     title        = &#34;Improving the chronological sorting of images through occlusion: A study on the Notre-Dame cathedral fire&#34;,
     booktitle    = &#34;IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)&#34;,
     year         = 2020,
