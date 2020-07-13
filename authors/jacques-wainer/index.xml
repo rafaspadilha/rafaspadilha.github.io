@@ -5,12 +5,29 @@
     <link>https://rafaspadilha.github.io/authors/jacques-wainer/</link>
       <atom:link href="https://rafaspadilha.github.io/authors/jacques-wainer/index.xml" rel="self" type="application/rss+xml" />
     <description>Jacques Wainer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Jacques Wainer</title>
       <link>https://rafaspadilha.github.io/authors/jacques-wainer/</link>
     </image>
+    
+    <item>
+      <title>Two-tiered face verification with low-memory footprint for mobile devices</title>
+      <link>https://rafaspadilha.github.io/publication/padilha20biometrics/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/padilha20biometrics/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@article{padilha2020two,
+  title={Two-tiered face verification with low-memory footprint for mobile devices},
+  author={Padilha, Rafael and Andal{\&#39;o}, Fernanda and Bertocco, Gabriel and Almeida, Waldir and Dias, William and Resek, Thiago and Torres, Ricardo and Wainer, Jacques and Rocha, Anderson},
+  journal={IET Biometrics},
+  year={2020},
+  publisher={IET}
+}
+&lt;/pre&gt;</description>
+    </item>
     
     <item>
       <title>Two-tiered facial verification for mobile devices</title>

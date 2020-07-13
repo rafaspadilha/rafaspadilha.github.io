@@ -5,7 +5,7 @@
     <link>https://rafaspadilha.github.io/authors/anderson-rocha/</link>
       <atom:link href="https://rafaspadilha.github.io/authors/anderson-rocha/index.xml" rel="self" type="application/rss+xml" />
     <description>Anderson Rocha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Anderson Rocha</title>
@@ -13,21 +13,37 @@
     </image>
     
     <item>
-      <title>Unraveling the Notre Dame Cathedral fire in space and time: an X-coherence approach</title>
-      <link>https://rafaspadilha.github.io/publication/padilha20unraveling/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://rafaspadilha.github.io/publication/padilha20unraveling/</guid>
+      <title>Forensic Event Analysis: From Seemingly Unrelated Data to Understanding</title>
+      <link>https://rafaspadilha.github.io/publication/padilha20forensic/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/padilha20forensic/</guid>
       <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
 &lt;pre style=&#34;overflow:auto&#34;&gt;
-@incollection{padilha20crc,
-    author       = &#34;Rafael Padilha and Fernanda A. Andal{\&#39;o} and Lu{\&#39;\i}s A. M. Pereira and Anderson Rocha&#34;,
-    title        = &#34;Unraveling the Notre Dame Cathedral fire in space and time: an X-coherence approach&#34;,
-    booktitle    = &#34;Crime  Science  and  Digital  Forensics:  A Holistic View&#34;,
-    year         = 2020,
-    publisher    = &#34;CRC Press&#34;,
+@article{padilha2020forensic,
+  title={Forensic Event Analysis: From Seemingly Unrelated Data to Understanding},
+  author={Padilha, Rafael and M. Rodrigues, Caroline and A. Andal{\&#39;o}, Fernanda and Bertocco, Gabriel and Dias, Zanoni and Rocha, Anderson},
+  journal={IEEE Security and Privacy},
+  year={2020},
+  publisher={IEEE}
 }
-&lt;/pre&gt;
-</description>
+&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Two-tiered face verification with low-memory footprint for mobile devices</title>
+      <link>https://rafaspadilha.github.io/publication/padilha20biometrics/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/padilha20biometrics/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@article{padilha2020two,
+  title={Two-tiered face verification with low-memory footprint for mobile devices},
+  author={Padilha, Rafael and Andal{\&#39;o}, Fernanda and Bertocco, Gabriel and Almeida, Waldir and Dias, William and Resek, Thiago and Torres, Ricardo and Wainer, Jacques and Rocha, Anderson},
+  journal={IET Biometrics},
+  year={2020},
+  publisher={IET}
+}
+&lt;/pre&gt;</description>
     </item>
     
     <item>
@@ -43,6 +59,24 @@
     booktitle    = &#34;IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)&#34;,
     year         = 2020,
     address      = &#34;Barcelona, Spain&#34;,
+}
+&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unraveling the Notre Dame Cathedral fire in space and time: an X-coherence approach</title>
+      <link>https://rafaspadilha.github.io/publication/padilha20unraveling/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/padilha20unraveling/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@incollection{padilha20crc,
+    author       = &#34;Rafael Padilha and Fernanda A. Andal{\&#39;o} and Lu{\&#39;\i}s A. M. Pereira and Anderson Rocha&#34;,
+    title        = &#34;Unraveling the Notre Dame Cathedral fire in space and time: an X-coherence approach&#34;,
+    booktitle    = &#34;Crime  Science  and  Digital  Forensics:  A Holistic View&#34;,
+    year         = 2020,
+    publisher    = &#34;CRC Press&#34;,
 }
 &lt;/pre&gt;
 </description>

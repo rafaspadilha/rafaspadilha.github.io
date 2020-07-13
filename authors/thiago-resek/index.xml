@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thiago Resek | Rafael Padilha</title>
+    <link>https://rafaspadilha.github.io/authors/thiago-resek/</link>
+      <atom:link href="https://rafaspadilha.github.io/authors/thiago-resek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thiago Resek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Thiago Resek</title>
+      <link>https://rafaspadilha.github.io/authors/thiago-resek/</link>
+    </image>
+    
+    <item>
+      <title>Two-tiered face verification with low-memory footprint for mobile devices</title>
+      <link>https://rafaspadilha.github.io/publication/padilha20biometrics/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/padilha20biometrics/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@article{padilha2020two,
+  title={Two-tiered face verification with low-memory footprint for mobile devices},
+  author={Padilha, Rafael and Andal{\&#39;o}, Fernanda and Bertocco, Gabriel and Almeida, Waldir and Dias, William and Resek, Thiago and Torres, Ricardo and Wainer, Jacques and Rocha, Anderson},
+  journal={IET Biometrics},
+  year={2020},
+  publisher={IET}
+}
+&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
