@@ -5,7 +5,7 @@
     <link>https://rafaspadilha.github.io/bookmarks/</link>
       <atom:link href="https://rafaspadilha.github.io/bookmarks/index.xml" rel="self" type="application/rss+xml" />
     <description>Bookmarks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Bookmarks</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Bookmarks for tag coding</title>
+      <link>https://rafaspadilha.github.io/bookmarks/tags/coding/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/bookmarks/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bookmarks for tag phd tips</title>
       <link>https://rafaspadilha.github.io/bookmarks/tags/phd_tips/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://rafaspadilha.github.io/bookmarks/tags/phd_tips/</guid>
       <description></description>
     </item>
