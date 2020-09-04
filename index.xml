@@ -5,7 +5,7 @@
     <link>https://rafaspadilha.github.io/</link>
       <atom:link href="https://rafaspadilha.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rafael Padilha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Rafael Padilha</title>
@@ -42,6 +42,22 @@
     </item>
     
     <item>
+      <title>Detecting face presentation attacks in mobile devices with a patch-based CNN and a sensor-aware loss function</title>
+      <link>https://rafaspadilha.github.io/publication/almeida20spoofing/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/almeida20spoofing/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@article{almeida20plosone,
+    author       = &#34;Waldir R. Almeida and Fernanda A. Andal{\&#39;o} and Rafael Padilha and Gabriel Bertocco and William Dias and Ricardo da S. Torres and Jacques Wainer and Anderson Rocha&#34;,
+    title        = &#34;Detecting face presentation attacks in mobile devices with a patch-based CNN and a sensor-aware loss function&#34;,
+    journal      = &#34;PLoS ONE&#34;,
+    year         = 2020,
+}
+&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
       <title>Bookmarks for tag coding</title>
       <link>https://rafaspadilha.github.io/bookmarks/tags/coding/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
@@ -70,22 +86,6 @@
   journal={IEEE Security and Privacy},
   year={2020},
   publisher={IEEE}
-}
-&lt;/pre&gt;</description>
-    </item>
-    
-    <item>
-      <title>Detecting face presentation attacks in mobile devices with a patch-based CNN and a sensor-aware loss function</title>
-      <link>https://rafaspadilha.github.io/publication/almeida20spoofing/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rafaspadilha.github.io/publication/almeida20spoofing/</guid>
-      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
-&lt;pre style=&#34;overflow:auto&#34;&gt;
-@article{almeida20plosone,
-    author       = &#34;Waldir R. Almeida and Fernanda A. Andal{\&#39;o} and Rafael Padilha and Gabriel Bertocco and William Dias and Ricardo da S. Torres and Jacques Wainer and Anderson Rocha&#34;,
-    title        = &#34;Detecting face presentation attacks in mobile devices with a patch-based CNN and a sensor-aware loss function&#34;,
-    journal      = &#34;PLoS ONE&#34;,
-    year         = 2020,
 }
 &lt;/pre&gt;</description>
     </item>
