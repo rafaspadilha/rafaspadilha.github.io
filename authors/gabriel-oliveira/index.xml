@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zanoni Dias | Rafael Padilha</title>
-    <link>https://rafaspadilha.github.io/authors/zanoni-dias/</link>
-      <atom:link href="https://rafaspadilha.github.io/authors/zanoni-dias/index.xml" rel="self" type="application/rss+xml" />
-    <description>Zanoni Dias</description>
+    <title>Gabriel Oliveira | Rafael Padilha</title>
+    <link>https://rafaspadilha.github.io/authors/gabriel-oliveira/</link>
+      <atom:link href="https://rafaspadilha.github.io/authors/gabriel-oliveira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gabriel Oliveira</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Zanoni Dias</title>
-      <link>https://rafaspadilha.github.io/authors/zanoni-dias/</link>
+      <title>Gabriel Oliveira</title>
+      <link>https://rafaspadilha.github.io/authors/gabriel-oliveira/</link>
     </image>
     
     <item>
@@ -27,23 +27,6 @@
 }
 &lt;/pre&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Forensic Event Analysis: From Seemingly Unrelated Data to Understanding</title>
-      <link>https://rafaspadilha.github.io/publication/padilha20forensic/</link>
-      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://rafaspadilha.github.io/publication/padilha20forensic/</guid>
-      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
-&lt;pre style=&#34;overflow:auto&#34;&gt;
-@article{padilha2020forensic,
-  title={Forensic Event Analysis: From Seemingly Unrelated Data to Understanding},
-  author={Padilha, Rafael and M. Rodrigues, Caroline and A. Andal{\&#39;o}, Fernanda and Bertocco, Gabriel and Dias, Zanoni and Rocha, Anderson},
-  journal={IEEE Security and Privacy},
-  year={2020},
-  publisher={IEEE}
-}
-&lt;/pre&gt;</description>
     </item>
     
   </channel>

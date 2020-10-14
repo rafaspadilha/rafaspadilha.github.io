@@ -5,12 +5,29 @@
     <link>https://rafaspadilha.github.io/authors/rafael-padilha/</link>
       <atom:link href="https://rafaspadilha.github.io/authors/rafael-padilha/index.xml" rel="self" type="application/rss+xml" />
     <description>Rafael Padilha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Rafael Padilha</title>
       <link>https://rafaspadilha.github.io/authors/rafael-padilha/</link>
     </image>
+    
+    <item>
+      <title>COVID-19 X-ray Image Diagnostic with Deep Neural Networks</title>
+      <link>https://rafaspadilha.github.io/publication/oliveira2020/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/oliveira2020/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@inproceedings{oliveira2020bsb,
+    author       = &#34;Gabriel Oliveira and Rafael Padilha and Andr{é} Dorte and Luis Cereda and Luiz Miyazaki and Maur{í}cio Lopes and Zanoni Dias&#34;,
+    title        = &#34;COVID-19 X-ray Image Diagnostic with Deep Neural Networks&#34;,
+    booktitle    = &#34;Brazilian Symposium on Bioinformatics (BSB)&#34;,
+    year         = 2020
+}
+&lt;/pre&gt;
+</description>
+    </item>
     
     <item>
       <title>Detecting face presentation attacks in mobile devices with a patch-based CNN and a sensor-aware loss function</title>
