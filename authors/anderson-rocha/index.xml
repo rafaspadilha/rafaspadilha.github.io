@@ -31,6 +31,24 @@
     </item>
     
     <item>
+      <title>A Inteligência Artificial e os desafios da Ciência Forense Digital no século XXI</title>
+      <link>https://rafaspadilha.github.io/publication/padilha21usp/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/padilha21usp/</guid>
+      <description>&lt;h3 id=&#34;bibtex&#34;&gt;Contribution Statement&lt;/h4&gt;
+&lt;b&gt;Rafael Padilha&lt;/b&gt; and &lt;b&gt;Antônio Theóphilo&lt;/b&gt; have contributed equally for this work.
+&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@article{padilha21cfd,
+    author       = &#34;Rafael Padilha and Antônio Theóphilo and Fernanda A. Andaló and Didier A. Vega-Oliveros and João P. Cardenuto and Gabriel Bertocco and José Nascimento and Jing Yang and Anderson Rocha&#34;,
+    title        = &#34;A Inteligência Artificial e os desafios da Ciência Forense Digital no século XXI&#34;,
+    journal      = &#34;USP Estudos Avançados&#34;,
+    year         = 2021,
+}
+&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
       <title>Detecting face presentation attacks in mobile devices with a patch-based CNN and a sensor-aware loss function</title>
       <link>https://rafaspadilha.github.io/publication/almeida20spoofing/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>

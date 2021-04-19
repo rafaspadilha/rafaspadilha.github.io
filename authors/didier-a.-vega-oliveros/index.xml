@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Didier A. Vega-Oliveros | Rafael Padilha</title>
+    <link>https://rafaspadilha.github.io/authors/didier-a.-vega-oliveros/</link>
+      <atom:link href="https://rafaspadilha.github.io/authors/didier-a.-vega-oliveros/index.xml" rel="self" type="application/rss+xml" />
+    <description>Didier A. Vega-Oliveros</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Didier A. Vega-Oliveros</title>
+      <link>https://rafaspadilha.github.io/authors/didier-a.-vega-oliveros/</link>
+    </image>
+    
+    <item>
+      <title>A Inteligência Artificial e os desafios da Ciência Forense Digital no século XXI</title>
+      <link>https://rafaspadilha.github.io/publication/padilha21usp/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/padilha21usp/</guid>
+      <description>&lt;h3 id=&#34;bibtex&#34;&gt;Contribution Statement&lt;/h4&gt;
+&lt;b&gt;Rafael Padilha&lt;/b&gt; and &lt;b&gt;Antônio Theóphilo&lt;/b&gt; have contributed equally for this work.
+&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@article{padilha21cfd,
+    author       = &#34;Rafael Padilha and Antônio Theóphilo and Fernanda A. Andaló and Didier A. Vega-Oliveros and João P. Cardenuto and Gabriel Bertocco and José Nascimento and Jing Yang and Anderson Rocha&#34;,
+    title        = &#34;A Inteligência Artificial e os desafios da Ciência Forense Digital no século XXI&#34;,
+    journal      = &#34;USP Estudos Avançados&#34;,
+    year         = 2021,
+}
+&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
