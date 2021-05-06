@@ -5,12 +5,29 @@
     <link>https://rafaspadilha.github.io/publication_types/2/</link>
       <atom:link href="https://rafaspadilha.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
       <link>https://rafaspadilha.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Temporally Sorting Images from Real-World Events</title>
+      <link>https://rafaspadilha.github.io/publication/padilha21prl/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/padilha21prl/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@article{padilha21temporally,
+    author       = &#34;Rafael Padilha and Fernanda A. Andaló and Bahram Lavi and Luís A. M. Pereira and Anderson Rocha&#34;,
+    title        = &#34;Temporally Sorting Images from Real-World Events&#34;,
+    journal      = &#34;Pattern Recognition Letters&#34;,
+    volume       = &#34;To appear&#34;,
+    year         = 2021
+}
+&lt;/pre&gt;</description>
+    </item>
     
     <item>
       <title>A Inteligência Artificial e os desafios da Ciência Forense Digital no século XXI</title>

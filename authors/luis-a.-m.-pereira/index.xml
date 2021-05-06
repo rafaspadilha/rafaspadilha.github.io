@@ -5,7 +5,7 @@
     <link>https://rafaspadilha.github.io/authors/luis-a.-m.-pereira/</link>
       <atom:link href="https://rafaspadilha.github.io/authors/luis-a.-m.-pereira/index.xml" rel="self" type="application/rss+xml" />
     <description>Luís A. M. Pereira</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Luís A. M. Pereira</title>
@@ -13,9 +13,26 @@
     </image>
     
     <item>
+      <title>Temporally Sorting Images from Real-World Events</title>
+      <link>https://rafaspadilha.github.io/publication/padilha21prl/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/padilha21prl/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@article{padilha21temporally,
+    author       = &#34;Rafael Padilha and Fernanda A. Andaló and Bahram Lavi and Luís A. M. Pereira and Anderson Rocha&#34;,
+    title        = &#34;Temporally Sorting Images from Real-World Events&#34;,
+    journal      = &#34;Pattern Recognition Letters&#34;,
+    volume       = &#34;To appear&#34;,
+    year         = 2021
+}
+&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
       <title>Unraveling the Notre Dame Cathedral fire in space and time: an X-coherence approach</title>
       <link>https://rafaspadilha.github.io/publication/padilha20unraveling/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://rafaspadilha.github.io/publication/padilha20unraveling/</guid>
       <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
 &lt;pre style=&#34;overflow:auto&#34;&gt;

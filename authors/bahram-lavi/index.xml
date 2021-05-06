@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bahram Lavi | Rafael Padilha</title>
+    <link>https://rafaspadilha.github.io/authors/bahram-lavi/</link>
+      <atom:link href="https://rafaspadilha.github.io/authors/bahram-lavi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bahram Lavi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Bahram Lavi</title>
+      <link>https://rafaspadilha.github.io/authors/bahram-lavi/</link>
+    </image>
+    
+    <item>
+      <title>Temporally Sorting Images from Real-World Events</title>
+      <link>https://rafaspadilha.github.io/publication/padilha21prl/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/padilha21prl/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@article{padilha21temporally,
+    author       = &#34;Rafael Padilha and Fernanda A. Andaló and Bahram Lavi and Luís A. M. Pereira and Anderson Rocha&#34;,
+    title        = &#34;Temporally Sorting Images from Real-World Events&#34;,
+    journal      = &#34;Pattern Recognition Letters&#34;,
+    volume       = &#34;To appear&#34;,
+    year         = 2021
+}
+&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
