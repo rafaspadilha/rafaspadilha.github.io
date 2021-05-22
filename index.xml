@@ -49,7 +49,7 @@
       <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
 &lt;pre style=&#34;overflow:auto&#34;&gt;
 @article{padilha21temporally,
-    author = {Rafael Padilha and Fernanda A. Andaló and Bahram Lavi and Luís A.M. Pereira and Anderson Rocha}
+    author = {Rafael Padilha and Fernanda A. Andaló and Bahram Lavi and Luís A.M. Pereira and Anderson Rocha},
     title = {Temporally sorting images from real-world events},
     journal = {Pattern Recognition Letters},
     volume = {147},
