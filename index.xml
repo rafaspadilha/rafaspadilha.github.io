@@ -5,12 +5,135 @@
     <link>https://rafaspadilha.github.io/</link>
       <atom:link href="https://rafaspadilha.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Rafael Padilha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Rafael Padilha</title>
       <link>https://rafaspadilha.github.io/</link>
     </image>
+    
+    <item>
+      <title>Ementa da Disciplina</title>
+      <link>https://rafaspadilha.github.io/teaching/mc102-2s2021/ementa/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/teaching/mc102-2s2021/ementa/</guid>
+      <description>&lt;p&gt;Na disciplina iremos abordar os seguintes tópicos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conceitos Básicos de Organização de Computadores&lt;/li&gt;
+&lt;li&gt;Conceitos Básicos sobre Algoritmos e Programação&lt;/li&gt;
+&lt;li&gt;Entrada e Saída de Dados&lt;/li&gt;
+&lt;li&gt;Expressões Aritméticas, Lógicas e Relacionais&lt;/li&gt;
+&lt;li&gt;Comandos Condicionais&lt;/li&gt;
+&lt;li&gt;Comandos de Repetição&lt;/li&gt;
+&lt;li&gt;Listas, Tuplas, Dicionários, Strings e Matrizes&lt;/li&gt;
+&lt;li&gt;Funções e Escopo de Variáveis&lt;/li&gt;
+&lt;li&gt;Algoritmos de Ordenação&lt;/li&gt;
+&lt;li&gt;Algoritmos de Busca&lt;/li&gt;
+&lt;li&gt;Recursão&lt;/li&gt;
+&lt;li&gt;Algoritmos Recursivos de Ordenação&lt;/li&gt;
+&lt;li&gt;Arquivos (extra)&lt;/li&gt;
+&lt;li&gt;Expressões Regulares (extra)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;critério-de-avaliação&#34;&gt;&lt;strong&gt;Critério de Avaliação&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;A avaliação será realizada através de tarefas práticas, ou seja, programas em Python que deverão ser implementados e submetidos para correção automática através do SuSy.&lt;/p&gt;
+&lt;p&gt;Serão propostas &lt;code&gt;n&lt;/code&gt; tarefas práticas, que deverão ser realizadas pelos(as) alunos(as). Os programas desenvolvidos serão testados com um conjunto pré-determinado de testes, subdividido em testes abertos (que podem ser acessados pelos alunos(as)) e testes fechados (que não podem). A nota de cada atividade prática será proporcional ao número de testes, abertos ou fechados, que executarem corretamente.&lt;/p&gt;
+&lt;p&gt;Juntamente com o enunciado de cada tarefa prática será indicado o peso &lt;code&gt;Pi ∈ {1, 2, 3, 4}&lt;/code&gt; dessa tarefa. A média das tarefas práticas (&lt;code&gt;P&lt;/code&gt;) será a média ponderada das notas das tarefas.&lt;/p&gt;
+&lt;p&gt;A média final &lt;code&gt;F&lt;/code&gt; e a situação de cada aluno(a) serão definidas de acordo com as regras a seguir.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Caso &lt;code&gt;P ≥ 5&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;O(A) aluno(a) estará aprovado(a) por nota e frequência com média final (&lt;code&gt;F&lt;/code&gt;):&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;F = P
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Caso &lt;code&gt;2,5 ≤ P &amp;lt; 5&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;O(A) aluno(a) poderá realizar o exame. O exame será composto por um subconjunto das tarefas práticas disponibilizadas ao longo do semestre. O(A) aluno(a) poderá refazer as tarefas indicadas no período do exame ou aproveitar os programas já submetidos anteriormente naquelas tarefas (sem necessidade de refazer a tarefa).&lt;/p&gt;
+&lt;p&gt;A nota do exame (&lt;code&gt;E&lt;/code&gt;) será calculada como a média ponderada das tarefas selecionadas para compor o exame. Os pesos das tarefas para fins do exame poderão ser diferentes daqueles previamente utilizados para o cálculo da média das tarefas práticas (&lt;code&gt;P&lt;/code&gt;). O cálculo da média final (&lt;code&gt;F&lt;/code&gt;) será feita da seguinte forma:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;F = min{5, (P + E)/2}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Caso &lt;code&gt;F ≥ 5.0&lt;/code&gt;, o(a) aluno(a) estará aprovado(a) por nota e frequência. Caso contrário, estará reprovado(a) por nota.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Caso &lt;code&gt;P &amp;lt; 2,5&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;O(A) aluno(a) estará reprovado(a) por nota, com média final (&lt;code&gt;F&lt;/code&gt;):&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;F = P
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;observações&#34;&gt;Observações:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Não haverá atividades práticas substitutivas.&lt;/li&gt;
+&lt;li&gt;As tarefas práticas serão disponibilizadas às segundas-feiras de manhã e ficarão disponíveis por pelo menos 3 semanas (até domingo a noite).&lt;/li&gt;
+&lt;li&gt;Qualquer tentativa de fraude nas atividades práticas implicará em nota final &lt;code&gt;F = 0&lt;/code&gt; (zero) para todas as pessoas envolvidas, sem prejuízo de outras sanções. Exemplos de fraudes:
+&lt;ul&gt;
+&lt;li&gt;Cópia ou compra de programas.&lt;/li&gt;
+&lt;li&gt;Submissão de programas que produzam as saídas esperadas dos testes abertos a partir da comparação de trechos da entrada, sem de fato implementar os algoritmos solicitados nas tarefas práticas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Casos de tentativa de fraude nas tarefas práticas poderão ser detectados automaticamente entre todas as submissões (de todos(as) os(as) alunos(as), entre todas as turmas) ao longo do semestre.&lt;/li&gt;
+&lt;li&gt;Todos os casos de tentativa de fraude automaticamente detectados serão verificados manualmente pela coordenação da disciplina. Todas as pessoas envolvidas em casos confirmados de tentativa de fraude serão comunicados até o final do semestre.&lt;/li&gt;
+&lt;li&gt;As notas das atividades práticas serão divulgadas no 
+&lt;a href=&#34;https://ic.unicamp.br/~mc102/notas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;site da disciplina&lt;/a&gt; até, no máximo, uma semana após o final do prazo de submissão das tarefas.&lt;/li&gt;
+&lt;li&gt;De acordo com o 
+&lt;a href=&#34;https://www.dac.unicamp.br/portal/graduacao/regimento-geral&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Regimento Geral de Graduação&lt;/a&gt;, os(as) alunos(as) devem ter frequência maior ou igual a 75% para aprovação, mas como esta disciplina será realizada de forma online, não haverá controle de presença (será atestada 100% de presença para todos(as) os(as) alunos(as) matriculados(as)).&lt;/li&gt;
+&lt;li&gt;De acordo com a fórmula acima, caso um(a) aluno(a) seja aprovado(a) após realizar o exame final, sua nota final será &lt;code&gt;F = 5&lt;/code&gt; (cinco).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;notas&#34;&gt;&lt;strong&gt;Notas&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Já que você chegou até aqui, há grandes chances de estar calculando quanto precisa tirar nas próximas atividades para ser aprovado(a).&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ic.unicamp.br/~mc102/notas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A planilha de notas pode ser acessada clicando neste link!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Boa sorte!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides &amp; Códigos</title>
+      <link>https://rafaspadilha.github.io/teaching/mc102-2s2021/slides-code/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/teaching/mc102-2s2021/slides-code/</guid>
+      <description>&lt;p&gt;Postaremos aqui os slides, códigos e exercícios que forem feitos durante as aulas teóricas.&lt;/p&gt;
+&lt;h3 id=&#34;slides&#34;&gt;Slides&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;códigos&#34;&gt;Códigos&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vídeos</title>
+      <link>https://rafaspadilha.github.io/teaching/mc102-2s2021/videos/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/teaching/mc102-2s2021/videos/</guid>
+      <description>&lt;p&gt;As gravações das aulas serão disponibilizadas à medida que forem dadas. Além delas, também serão disponibilizados alguns vídeos curtos explicando conceitos vistos em sala.&lt;/p&gt;
+&lt;h3 id=&#34;aulas&#34;&gt;Aulas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;shorts&#34;&gt;&lt;em&gt;Shorts&lt;/em&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Listas de Exercícios</title>
+      <link>https://rafaspadilha.github.io/teaching/mc102-2s2021/exercicios/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/teaching/mc102-2s2021/exercicios/</guid>
+      <description>&lt;p&gt;Listas de exercício e resoluções:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>DéjàVu</title>
