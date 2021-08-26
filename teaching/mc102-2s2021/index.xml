@@ -108,9 +108,6 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;
 &lt;a href=&#34;https://drive.google.com/file/d/1nAHQLHhaA9TsZBSMK-yCwQ39F0eOI95F/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aula 03&lt;/a&gt;&lt;/strong&gt;: Expressões relacionais e lógicas, comandos condicionais (if/else/elif);&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;
-&lt;a href=&#34;https://ic.unicamp.br/~mc102/aulas/testador.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Extra - Execução de Testes no Google Cloud Shell&lt;/a&gt;&lt;/strong&gt;: Tutorial que pode ser útil para executar automaticamente os testes. 
-&lt;a href=&#34;https://www.youtube.com/watch?v=SZ0Mhpl_xQ4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link para o vídeo&lt;/a&gt;;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;códigos&#34;&gt;Códigos&lt;/h3&gt;
 &lt;ul&gt;
@@ -125,6 +122,14 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;
 &lt;a href=&#34;https://drive.google.com/drive/folders/1CK_bg3K0KON6tF5GGmX0WmkmQfBl6rut?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aula 03&lt;/a&gt;&lt;/strong&gt;: Aposentadoria (com comandos condicionais e variável flag), menor número, ordenação, Bhaskara, Jokenpo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;extras&#34;&gt;Extras&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://ic.unicamp.br/~mc102/aulas/testador.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Execução de Testes no Google Cloud Shell&lt;/a&gt;&lt;/strong&gt;: Tutorial que pode ser útil para executar automaticamente os testes. 
+&lt;a href=&#34;https://www.youtube.com/watch?v=SZ0Mhpl_xQ4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link para o vídeo&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://www.ic.unicamp.br/~ra188966/files/mc102_2s2021_flux_cond.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fluxogramas de Comandos Condicionais&lt;/a&gt;&lt;/strong&gt;: Material da professora Helena Maia (Turmas ACD) com fluxogramas dos comandos condicionais;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
