@@ -92,7 +92,7 @@
     <item>
       <title>Slides &amp; Códigos</title>
       <link>https://rafaspadilha.github.io/teaching/mc102-2s2021/slides-code/</link>
-      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://rafaspadilha.github.io/teaching/mc102-2s2021/slides-code/</guid>
       <description>&lt;p&gt;Postaremos aqui os slides, códigos e exercícios que forem feitos durante as aulas teóricas. Para acessar, utilize a sua conta da DAC/Unicamp.&lt;/p&gt;
 &lt;h3 id=&#34;slides&#34;&gt;Slides&lt;/h3&gt;
@@ -142,7 +142,7 @@
     <item>
       <title>Vídeos</title>
       <link>https://rafaspadilha.github.io/teaching/mc102-2s2021/videos/</link>
-      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://rafaspadilha.github.io/teaching/mc102-2s2021/videos/</guid>
       <description>&lt;p&gt;As gravações das aulas serão disponibilizadas à medida que forem dadas. Para acessar, utilize a sua conta da DAC/Unicamp.&lt;/p&gt;
 &lt;h3 id=&#34;aulas&#34;&gt;Aulas&lt;/h3&gt;
@@ -160,6 +160,8 @@
 &lt;li&gt;&lt;strong&gt;
 &lt;a href=&#34;https://drive.google.com/file/d/1OnmT_wjd7iy4dk04rs25vluDeiVBVqOs/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[24/Ago] Aula 05&lt;/a&gt;&lt;/strong&gt;: Exercícios com comandos condicionais, 
 &lt;a href=&#34;https://forms.gle/q6Yn3Wmy6P83ShUNA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;atividade&lt;/a&gt; em grupo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/1_lSfYZFCCIPgp714D2OgPruBxP8Y_KaP/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[26/Ago] Aula 06&lt;/a&gt;&lt;/strong&gt;: Comandos de Repetição (while, listas);&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;extras&#34;&gt;Extras&lt;/h3&gt;
 &lt;ul&gt;
@@ -175,7 +177,7 @@
     <item>
       <title>Exercícios &amp; Atividades</title>
       <link>https://rafaspadilha.github.io/teaching/mc102-2s2021/exercicios/</link>
-      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://rafaspadilha.github.io/teaching/mc102-2s2021/exercicios/</guid>
       <description>&lt;h3 id=&#34;listas-de-exercício-e-resoluções&#34;&gt;Listas de exercício e resoluções:&lt;/h3&gt;
 &lt;ul&gt;
@@ -194,9 +196,11 @@
 &lt;a href=&#34;https://forms.gle/q6Yn3Wmy6P83ShUNA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atividade 01 - 24/Ago&lt;/a&gt;&lt;/strong&gt;: Conversão de tipos e comandos condicionais &amp;mdash; 
 &lt;a href=&#34;https://drive.google.com/file/d/1Ni2Jz0Jkm0GyCfQ8W05VsBkQ-WQXCeUu/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Resolução]&lt;/a&gt;;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;
-&lt;a href=&#34;https://forms.gle/xJF51JuxVUxS6A3b7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atividade 02 - 26/Ago&lt;/a&gt;&lt;/strong&gt;: Fatorial (comandos de repetição) &amp;mdash; [&lt;em&gt;Resolução em breve&lt;/em&gt;];&lt;/li&gt;
+&lt;a href=&#34;https://forms.gle/xJF51JuxVUxS6A3b7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atividade 02 - 26/Ago&lt;/a&gt;&lt;/strong&gt;: Fatorial (comandos de repetição) &amp;mdash; 
+&lt;a href=&#34;https://drive.google.com/file/d/1aud387GMy7FRnhHvCh0tEvg2dUFIg6zs/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Resolução]&lt;/a&gt;;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;
-&lt;a href=&#34;https://forms.gle/42fd6UVfXvfsAY9QA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atividade 03 - 26/Ago&lt;/a&gt;&lt;/strong&gt;: Maior número de uma lista (comandos de repetição) &amp;mdash; [&lt;em&gt;Resolução em breve&lt;/em&gt;];&lt;/li&gt;
+&lt;a href=&#34;https://forms.gle/42fd6UVfXvfsAY9QA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atividade 03 - 26/Ago&lt;/a&gt;&lt;/strong&gt;: Maior número de uma lista (comandos de repetição) &amp;mdash; 
+&lt;a href=&#34;https://drive.google.com/file/d/1j9SLwbx80qCFtlGt8s_bgurh9ePoKRYt/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Resolução]&lt;/a&gt;;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
