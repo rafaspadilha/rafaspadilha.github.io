@@ -125,7 +125,7 @@
 &lt;li&gt;&lt;strong&gt;
 &lt;a href=&#34;https://drive.google.com/drive/folders/1CK_bg3K0KON6tF5GGmX0WmkmQfBl6rut?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aula 03&lt;/a&gt;&lt;/strong&gt;: Aposentadoria (com comandos condicionais e variável flag), menor número, ordenação, Bhaskara, Jokenpo;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;
-&lt;a href=&#34;https://drive.google.com/drive/folders/1-msi5LBzLJgFyxH2zto_y6trHuNq2URA?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aula 04&lt;/a&gt;&lt;/strong&gt;: Divisão, fatorial, maior número de uma lista;&lt;/li&gt;
+&lt;a href=&#34;https://drive.google.com/drive/folders/1-msi5LBzLJgFyxH2zto_y6trHuNq2URA?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aula 04&lt;/a&gt;&lt;/strong&gt;: Divisão, fatorial, maior número de uma lista, fibonacci, exponenciação;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;extras&#34;&gt;Extras&lt;/h3&gt;
 &lt;ul&gt;
@@ -179,7 +179,7 @@
       <link>https://rafaspadilha.github.io/teaching/mc102-2s2021/exercicios/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://rafaspadilha.github.io/teaching/mc102-2s2021/exercicios/</guid>
-      <description>&lt;h3 id=&#34;listas-de-exercício-e-resoluções&#34;&gt;Listas de exercício e resoluções:&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;listas-de-exercício-e-resoluções&#34;&gt;Listas de exercício e resoluções&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;
 &lt;a href=&#34;https://ic.unicamp.br/~mc102/listas/lista1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lista 01&lt;/a&gt;&lt;/strong&gt;: Tipos, Variáveis, Operações Matemáticas e Comandos Condicionais;
@@ -190,7 +190,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;atividades-em-sala&#34;&gt;Atividades em sala:&lt;/h3&gt;
+&lt;h3 id=&#34;atividades-em-sala&#34;&gt;Atividades em sala&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;
 &lt;a href=&#34;https://forms.gle/q6Yn3Wmy6P83ShUNA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atividade 01 - 24/Ago&lt;/a&gt;&lt;/strong&gt;: Conversão de tipos e comandos condicionais &amp;mdash; 
@@ -201,6 +201,9 @@
 &lt;li&gt;&lt;strong&gt;
 &lt;a href=&#34;https://forms.gle/42fd6UVfXvfsAY9QA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atividade 03 - 26/Ago&lt;/a&gt;&lt;/strong&gt;: Maior número de uma lista (comandos de repetição) &amp;mdash; 
 &lt;a href=&#34;https://drive.google.com/file/d/1j9SLwbx80qCFtlGt8s_bgurh9ePoKRYt/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Resolução]&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://forms.gle/KSg1mzT77CHHYtfw7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atividade 04 - 31/Ago&lt;/a&gt;&lt;/strong&gt;: Sequência de Fibonacci (comandos de repetição) &amp;mdash; 
+&lt;a href=&#34;https://drive.google.com/file/d/1kYDi0HAqFGuYmU3ExliMe7l9cgmZw85B/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Resolução]&lt;/a&gt;;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
