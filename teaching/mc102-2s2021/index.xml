@@ -92,7 +92,7 @@
     <item>
       <title>Slides &amp; Códigos</title>
       <link>https://rafaspadilha.github.io/teaching/mc102-2s2021/slides-code/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://rafaspadilha.github.io/teaching/mc102-2s2021/slides-code/</guid>
       <description>&lt;p&gt;Postaremos aqui os slides, códigos e exercícios que forem feitos durante as aulas teóricas. Para acessar, utilize a sua conta da DAC/Unicamp.&lt;/p&gt;
 &lt;h3 id=&#34;slides&#34;&gt;Slides&lt;/h3&gt;
@@ -114,6 +114,8 @@
 &lt;a href=&#34;https://drive.google.com/file/d/1TKj_7Gi_23z8_rC5IHuR7dvebwAQccpC/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aula 05&lt;/a&gt;&lt;/strong&gt;: Listas e Tuplas;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;
 &lt;a href=&#34;https://drive.google.com/file/d/1tdb86g_c6bkRNTAW9ojM7U_OCaMvTkhF/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aula 06&lt;/a&gt;&lt;/strong&gt;: Strings;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/1VyqeGIm0AI7n9re50oq5BnflTVDaBLMS/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aula 07&lt;/a&gt;&lt;/strong&gt;: Dicionários;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;códigos&#34;&gt;Códigos&lt;/h3&gt;
 &lt;ul&gt;
@@ -134,6 +136,8 @@
 &lt;a href=&#34;https://drive.google.com/drive/folders/1iOzE-oCCdPcNZbMP6655Sg40J1ug4RTk?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aula 05&lt;/a&gt;&lt;/strong&gt;: Número pertence à lista, remover elementos pares, média das provas, ordenação;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;
 &lt;a href=&#34;https://drive.google.com/drive/folders/1D8WD4U1odyl16GKIao1WDv6CRcnwVYS9?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aula 06&lt;/a&gt;&lt;/strong&gt;: Média, contagem de palavras, ocorrência de substring, palíndromo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://drive.google.com/drive/folders/1whD3xyImR39ae4Ty48bag3MQmdC2ZrpC?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aula 07&lt;/a&gt;&lt;/strong&gt;: Temperatura, pokemon, Cadastro duplicado, contagem de letras;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;extras&#34;&gt;Extras&lt;/h3&gt;
 &lt;ul&gt;
@@ -204,7 +208,7 @@
     <item>
       <title>Exercícios &amp; Atividades</title>
       <link>https://rafaspadilha.github.io/teaching/mc102-2s2021/exercicios/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://rafaspadilha.github.io/teaching/mc102-2s2021/exercicios/</guid>
       <description>&lt;h3 id=&#34;listas-de-exercício-e-resoluções&#34;&gt;Listas de exercício e resoluções&lt;/h3&gt;
 &lt;ul&gt;
@@ -227,6 +231,13 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;
 &lt;a href=&#34;https://forms.gle/Ms6RVqDPvWLd2aKN6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Envio de respostas&lt;/a&gt;&lt;/strong&gt;: se desejar, você pode enviar as suas respostas e o professor dará um feedback individual;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://ic.unicamp.br/~mc102/listas/lista4.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lista 04&lt;/a&gt;&lt;/strong&gt;: Strings;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;
+&lt;a href=&#34;https://forms.gle/eG5iFq9QLoqT8PSQ6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Envio de respostas&lt;/a&gt;&lt;/strong&gt;: se desejar, você pode enviar as suas respostas e o professor dará um feedback individual;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
