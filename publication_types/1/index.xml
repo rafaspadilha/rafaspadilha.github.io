@@ -5,12 +5,46 @@
     <link>https://rafaspadilha.github.io/publication_types/1/</link>
       <atom:link href="https://rafaspadilha.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://rafaspadilha.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Bias Assessment in Medical Imaging Analysis: a Case Study on Retinal OCT Image Classification</title>
+      <link>https://rafaspadilha.github.io/publication/oliveira22icaart/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/oliveira22icaart/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@inproceedings{oliveira2022bias,
+    author       = &#34;Gabriel Oliveira, Lucas David, Rafael Padilha, Ana Paula da Silva, Francine de Paula,  Lucas Infante, Lucio Jorge, Patricia Xavier and Zanoni Dias&#34;,
+    title        = &#34;Bias Assessment in Medical Imaging Analysis: a Case Study on Retinal OCT Image Classification&#34;,
+    booktitle    = &#34;International Conference on Agents and Artificial Intelligence (ICAART)&#34;,
+    year         = 2022
+}
+&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Learning-based COVID-19 diagnostics of low-quality CT images</title>
+      <link>https://rafaspadilha.github.io/publication/ferber21covid/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/ferber21covid/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@inproceedings{ferber2021bsb,
+    author       = &#34;Daniel Ferber and Felipe Vieira and Jo{ã}o Dalben and Mariana Ferraz and Nicholas Sato and Gabriel Oliveira and Rafael Padilha and Zanoni Dias&#34;,
+    title        = &#34;Deep Learning-based COVID-19 diagnostics of low-quality CT images&#34;,
+    booktitle    = &#34;Brazilian Symposium on Bioinformatics (BSB)&#34;,
+    year         = 2021
+}
+&lt;/pre&gt;
+</description>
+    </item>
     
     <item>
       <title>COVID-19 X-ray Image Diagnostic with Deep Neural Networks</title>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Felipe Vieira | Rafael Padilha</title>
+    <link>https://rafaspadilha.github.io/authors/felipe-vieira/</link>
+      <atom:link href="https://rafaspadilha.github.io/authors/felipe-vieira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Felipe Vieira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Felipe Vieira</title>
+      <link>https://rafaspadilha.github.io/authors/felipe-vieira/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning-based COVID-19 diagnostics of low-quality CT images</title>
+      <link>https://rafaspadilha.github.io/publication/ferber21covid/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/ferber21covid/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@inproceedings{ferber2021bsb,
+    author       = &#34;Daniel Ferber and Felipe Vieira and Jo{ã}o Dalben and Mariana Ferraz and Nicholas Sato and Gabriel Oliveira and Rafael Padilha and Zanoni Dias&#34;,
+    title        = &#34;Deep Learning-based COVID-19 diagnostics of low-quality CT images&#34;,
+    booktitle    = &#34;Brazilian Symposium on Bioinformatics (BSB)&#34;,
+    year         = 2021
+}
+&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
