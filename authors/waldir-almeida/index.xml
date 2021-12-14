@@ -5,12 +5,31 @@
     <link>https://rafaspadilha.github.io/authors/waldir-almeida/</link>
       <atom:link href="https://rafaspadilha.github.io/authors/waldir-almeida/index.xml" rel="self" type="application/rss+xml" />
     <description>Waldir Almeida</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Waldir Almeida</title>
       <link>https://rafaspadilha.github.io/authors/waldir-almeida/</link>
     </image>
+    
+    <item>
+      <title>Cross-dataset emotion recognition from facial expressions through convolutional neural networks</title>
+      <link>https://rafaspadilha.github.io/publication/dias21emotion/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/dias21emotion/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@article{dias21cross,
+    author = {William Dias and Fernanda A. Andaló and Rafael Padilha and Gabriel Bertocco and Waldir Almeida and Paula Costa and Anderson Rocha},
+    title = {Cross-dataset emotion recognition from facial expressions through convolutional neural networks},
+    journal = {Journal of Visual Communication and Image Representation},
+    volume = {In Press},
+    pages = {},
+    year = {2021},
+    doi = {https://doi.org/10.1016/j.jvcir.2021.103395},
+}
+&lt;/pre&gt;</description>
+    </item>
     
     <item>
       <title>Detecting face presentation attacks in mobile devices with a patch-based CNN and a sensor-aware loss function</title>

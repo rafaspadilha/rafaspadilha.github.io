@@ -30,6 +30,25 @@
     </item>
     
     <item>
+      <title>Cross-dataset emotion recognition from facial expressions through convolutional neural networks</title>
+      <link>https://rafaspadilha.github.io/publication/dias21emotion/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/dias21emotion/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@article{dias21cross,
+    author = {William Dias and Fernanda A. Andaló and Rafael Padilha and Gabriel Bertocco and Waldir Almeida and Paula Costa and Anderson Rocha},
+    title = {Cross-dataset emotion recognition from facial expressions through convolutional neural networks},
+    journal = {Journal of Visual Communication and Image Representation},
+    volume = {In Press},
+    pages = {},
+    year = {2021},
+    doi = {https://doi.org/10.1016/j.jvcir.2021.103395},
+}
+&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
       <title>Deep Learning-based COVID-19 diagnostics of low-quality CT images</title>
       <link>https://rafaspadilha.github.io/publication/ferber21covid/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
