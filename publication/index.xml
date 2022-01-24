@@ -5,12 +5,30 @@
     <link>https://rafaspadilha.github.io/publication/</link>
       <atom:link href="https://rafaspadilha.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://rafaspadilha.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Explainable Artificial Intelligence for Authorship Attribution on Social Media</title>
+      <link>https://rafaspadilha.github.io/publication/theofilo22icassp/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/theofilo22icassp/</guid>
+      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@inproceedings{theofilo22icassp,
+    author       = &#34;Antonio Theofilo and Rafael Padilha and Fernanda A. Andal{\&#39;o} and Anderson Rocha&#34;,
+    title        = &#34;Explainable Artificial Intelligence for Authorship Attribution on Social Media&#34;,
+    booktitle    = &#34;{IEEE} International Conference on Acoustics, Speech, and Signal Processing ({ICASSP})&#34;,
+    year         = 2022,
+    address      = &#34;Singapore&#34;,
+}
+&lt;/pre&gt;
+</description>
+    </item>
     
     <item>
       <title>Bias Assessment in Medical Imaging Analysis: a Case Study on Retinal OCT Image Classification</title>
@@ -24,24 +42,6 @@
     title        = &#34;Bias Assessment in Medical Imaging Analysis: a Case Study on Retinal OCT Image Classification&#34;,
     booktitle    = &#34;International Conference on Agents and Artificial Intelligence (ICAART)&#34;,
     year         = 2022
-}
-&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Explainable Artificial Intelligence for Authorship Attribution on Social Media</title>
-      <link>https://rafaspadilha.github.io/publication/theofilo22icassp/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://rafaspadilha.github.io/publication/theofilo22icassp/</guid>
-      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
-&lt;pre style=&#34;overflow:auto&#34;&gt;
-@inproceedings{theofilo22icassp,
-    author       = &#34;Antonio Theofilo and Rafael Padilha and Fernanda A. Andal{\&#39;o} and Anderson Rocha&#34;,
-    title        = &#34;Explainable Artificial Intelligence for Authorship Attribution on Social Media&#34;,
-    booktitle    = &#34;{IEEE} International Conference on Acoustics, Speech, and Signal Processing ({ICASSP})&#34;,
-    year         = 2022,
-    address      = &#34;Singapore&#34;,
 }
 &lt;/pre&gt;
 </description>
