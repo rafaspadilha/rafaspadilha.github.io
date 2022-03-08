@@ -17,8 +17,56 @@
       <link>https://rafaspadilha.github.io/publication/padilha22content/</link>
       <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://rafaspadilha.github.io/publication/padilha22content/</guid>
-      <description>&lt;h2 id=&#34;approach-overview&#34;&gt;Approach Overview&lt;/h2&gt;
-&lt;p&gt;ToDo&lt;/p&gt;
+      <description>&lt;br&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;video-summary&#34;&gt;Video Summary&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;tifs_sharing_clip.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;approach-overview&#34;&gt;Approach Overview&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+Our goal is to assess if the visual content of an outdoor image is consistent with its hour and month of capture. For this, our method must extract discriminative features from the scene appearance and contrast them with the expected appearance for that specific time of capture. As variations in appearance over time are highly dependent on the location of the scene, it is essential to provide, as additional context, geographic cues of where the picture was taken.
+&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;network_architecture.png&#34; alt=&#34;Network Architecture&#34; title=&#34;Network Architecture&#34;&gt;&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;
+With this in mind, we propose a CNN architecture to estimate the probability $P(y\,|\,G, t, l, S)$ that a given ground-level image $G$, associated with location $l$ and satellite image $S$, is consistent ($y=0$) or inconsistent ($y=1$) with an alleged timestamp $t$. By providing location $l$ as input, the network will be able to consider the influence of geographic position in seasonal patterns (e.g., winter months in the Northern hemisphere with reduced sunlight hours, and the opposite in the Southern hemisphere). Moreover,  satellite image $S$ provides an additional context about the photographer&#39;s surroundings and the structure of the scene, such as whether the image was captured in an urban or rural area. We employ a basemap-style picture, which is globally available and can be easily obtained from online services (e.g., Google Maps and Bing Maps) given location $l$. This kind of imagery was designed for navigational purposes and offers an idea of the structure of the scene without reflecting time-dependent elements (e.g., illumination and weather conditions). In this sense, we &lt;b&gt;do not&lt;/b&gt; assume $S$ is linked to the timestamp $t$, avoiding the need for a satellite image at the precise time-of-capture being checked.&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;For explainability, the network also estimates transient attributes $a_{\textit{G}}$ and $a_{\textit{S}}$. These are 40-dimensional arrays, with each value encoding the presence of a characteristic of the scene appearance (e.g., fog, hot, beautiful, summer) to the interval $[0,1]$. The attributes $a_{\textit{G}}$ are estimated solely from the ground-level image and capture the high-level properties of the scene at the moment it was recorded. In contrast, $a_{S}$ is estimated from the satellite photo, location coordinates, and the alleged timestamp, and can be interpreted as a prediction of the expected scene appearance at the alleged moment.
+&lt;/p&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;More details about each component of the architecture can be found in the main paper.&lt;/p&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;experimental-analyses&#34;&gt;Experimental Analyses&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;We present in the main paper and supplementary material several experiments highlighting different aspects of our method:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ablation study of each input modality and backbone architecture;&lt;/li&gt;
+&lt;li&gt;Sensitivity analyses regarding changes in the appearance of the scene, subtler timestamp manipulation, and noises in the geographical coordinates;&lt;/li&gt;
+&lt;li&gt;Interpretability visualizations to understand what elements influence the decision of the model;&lt;/li&gt;
+&lt;li&gt;Extension of our approach to estimate a range of possible time-of-capture for a given image;&lt;/li&gt;
+&lt;li&gt;Cross-camera evaluation, a realistic application scenario with social media imagery;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;br&gt;
 &lt;h2 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h2&gt;
 &lt;pre style=&#34;overflow:auto&#34;&gt;
 @article{padilha22content,
