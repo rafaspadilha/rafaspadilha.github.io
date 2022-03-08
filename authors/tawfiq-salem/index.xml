@@ -5,7 +5,7 @@
     <link>https://rafaspadilha.github.io/authors/tawfiq-salem/</link>
       <atom:link href="https://rafaspadilha.github.io/authors/tawfiq-salem/index.xml" rel="self" type="application/rss+xml" />
     <description>Tawfiq Salem</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tawfiq Salem</title>
@@ -13,20 +13,24 @@
     </image>
     
     <item>
-      <title>Content-Based Detection of Temporal Metadata Manipulation</title>
-      <link>https://rafaspadilha.github.io/publication/padilha21content/</link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://rafaspadilha.github.io/publication/padilha21content/</guid>
-      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
+      <title>Content-Aware Detection of Temporal Metadata Manipulation</title>
+      <link>https://rafaspadilha.github.io/publication/padilha22content/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/padilha22content/</guid>
+      <description>&lt;h2 id=&#34;approach-overview&#34;&gt;Approach Overview&lt;/h2&gt;
+&lt;p&gt;ToDo&lt;/p&gt;
+&lt;h2 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h2&gt;
 &lt;pre style=&#34;overflow:auto&#34;&gt;
-@article{padilha21content,
+@article{padilha22content,
     author       = &#34;Rafael Padilha and Tawfiq Salem and Scott Workman and Fernanda A. Andaló and Anderson Rocha and Nathan Jacobs&#34;,
-    title        = &#34;Content-Based Detection of Temporal Metadata Manipulation&#34;,
-    journal      = &#34;{arXiv} preprint&#34;,
-    volume       = &#34;{arXiv}:2103.04736&#34;,
-    year         = 2021
+    title        = &#34;Content-Aware Detection of Temporal Metadata Manipulation&#34;,
+    journal      = &#34;{IEEE} Transactions on Information Forensics and Security (TIFS)&#34;,
+    volume       = &#34;In Press&#34;,
+    year         = 2022
 }
-&lt;/pre&gt;</description>
+&lt;/pre&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     
   </channel>

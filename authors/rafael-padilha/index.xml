@@ -31,6 +31,27 @@
     </item>
     
     <item>
+      <title>Content-Aware Detection of Temporal Metadata Manipulation</title>
+      <link>https://rafaspadilha.github.io/publication/padilha22content/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/publication/padilha22content/</guid>
+      <description>&lt;h2 id=&#34;approach-overview&#34;&gt;Approach Overview&lt;/h2&gt;
+&lt;p&gt;ToDo&lt;/p&gt;
+&lt;h2 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h2&gt;
+&lt;pre style=&#34;overflow:auto&#34;&gt;
+@article{padilha22content,
+    author       = &#34;Rafael Padilha and Tawfiq Salem and Scott Workman and Fernanda A. Andaló and Anderson Rocha and Nathan Jacobs&#34;,
+    title        = &#34;Content-Aware Detection of Temporal Metadata Manipulation&#34;,
+    journal      = &#34;{IEEE} Transactions on Information Forensics and Security (TIFS)&#34;,
+    volume       = &#34;In Press&#34;,
+    year         = 2022
+}
+&lt;/pre&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bias Assessment in Medical Imaging Analysis: a Case Study on Retinal OCT Image Classification</title>
       <link>https://rafaspadilha.github.io/publication/oliveira22icaart/</link>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
@@ -45,6 +66,14 @@
 }
 &lt;/pre&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Learning Visual Clues of the Passage of Time</title>
+      <link>https://rafaspadilha.github.io/talk/padilha22hpi/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://rafaspadilha.github.io/talk/padilha22hpi/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -116,23 +145,6 @@
     title        = &#34;A Inteligência Artificial e os desafios da Ciência Forense Digital no século XXI&#34;,
     journal      = &#34;USP Estudos Avançados&#34;,
     year         = 2021,
-}
-&lt;/pre&gt;</description>
-    </item>
-    
-    <item>
-      <title>Content-Based Detection of Temporal Metadata Manipulation</title>
-      <link>https://rafaspadilha.github.io/publication/padilha21content/</link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://rafaspadilha.github.io/publication/padilha21content/</guid>
-      <description>&lt;h4 id=&#34;bibtex&#34;&gt;BibTeX&lt;/h4&gt;
-&lt;pre style=&#34;overflow:auto&#34;&gt;
-@article{padilha21content,
-    author       = &#34;Rafael Padilha and Tawfiq Salem and Scott Workman and Fernanda A. Andaló and Anderson Rocha and Nathan Jacobs&#34;,
-    title        = &#34;Content-Based Detection of Temporal Metadata Manipulation&#34;,
-    journal      = &#34;{arXiv} preprint&#34;,
-    volume       = &#34;{arXiv}:2103.04736&#34;,
-    year         = 2021
 }
 &lt;/pre&gt;</description>
     </item>
